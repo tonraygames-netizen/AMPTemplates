@@ -1,5 +1,0 @@
-App.DisplayName=Red Discord Bot
-App.Executable=python3
-App.CommandLine=-m redbot MeinBot --no-prompt
-App.WorkingDir=./
-App.AppType=Generic
