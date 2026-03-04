@@ -2,7 +2,7 @@
   "MetaConfig": {
     "DisplayName": "Red Discord Bot",
     "Description": "Discord bot using Red framework",
-    "Author": "Custom",
+    "Author": "tonraygames-netizen",
     "SupportsDocker": false
   }
 }
