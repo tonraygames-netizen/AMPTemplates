@@ -1,4 +1,16 @@
+Meta.DisplayName=Red Discord Bot
+Meta.Description=Discord bot using Red-DiscordBot (Python)
+Meta.OS=Linux
+Meta.Arch=x86_64
+Meta.Author=tonraygames-netizen
+Meta.URL=https://github.com/Cog-Creators/Red-DiscordBot
+Meta.ConfigManifest=RedDiscordBotconfig.json
+Meta.ConfigRoot=RedDiscordBot.kvp
+Meta.ContainerPolicy=NotSpecified
+
 App.DisplayName=Red Discord Bot
+App.RootDir=./
+App.BaseDirectory=./
 App.Executable=python3
 App.CommandLine=-m redbot MeinBot --no-prompt
 App.WorkingDir=./
