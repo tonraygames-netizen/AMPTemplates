@@ -1,0 +1,12 @@
+[
+    {
+        "UpdateStageName": "SteamCMD Download",
+        "UpdateStageDescription": "Download via SteamCMD",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "1338040",
+        "UpdateSourceArgs": "1066890",
+        "UpdateSourceTarget": ".",
+        "ForceDownloadPlatform": "Windows"
+    }
+]

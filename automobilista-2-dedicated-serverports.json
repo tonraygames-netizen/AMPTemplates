@@ -1,0 +1,23 @@
+[
+    {
+        "Protocol": "Both",
+        "Port": 27015,
+        "Ref": "MainGamePort",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic"
+    },
+    {
+        "Protocol": "Both",
+        "Port": 27016,
+        "Ref": "SteamQueryPort",
+        "Name": "Steam Query Port",
+        "Description": "Port used for Steam queries and server list"
+    },
+    {
+        "Protocol": "Both",
+        "Port": 8766,
+        "Ref": "Steam",
+        "Name": "Steam",
+        "Description": ""
+    }
+]
